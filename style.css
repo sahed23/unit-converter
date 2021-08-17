@@ -45,9 +45,11 @@ input{
   border-radius:1.2rem;
   padding-left:1rem;
   font-family: 'PT Serif', serif;
+  outline:none;
 }
 input:focus{
-  border:1px solid blue;
+  border:1px solid #00ccff;
+  outline:none;
 }
 #select{
   margin-left:1.2rem;
